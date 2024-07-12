@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">supletorio</string>
+    <string name="bienvenido_al_banco">bienvenido al banco</string>
+    <string name="_0_00">0.00</string>
+    <string name="ingrese_su_apellido">Ingrese su apellido</string>
+    <string name="apellido">Apellido:</string>
+    <string name="ingrese_cedula">ingrese cedula</string>
+    <string name="cedula">Cedula:</string>
+    <string name="consultar">consultar</string>
+    <string name="depositar">depositar</string>
+    <string name="ingrese_un_monto_a_ingresar">ingrese un monto a ingresar</string>
+    <string name="monto_a_depositar">monto a depositar</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre</string>
+    <string name="nombre">Nombre:</string>
+    <string name="retirar">retirar</string>
+    <string name="saldo_disponible">saldo disponible</string>
+</resources>
